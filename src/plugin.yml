@@ -1,5 +1,5 @@
-name: FarmMaster
-main: redecouverte.farmmaster.FarmMaster
+name: Farming
+main: ChestplateCannon.farming.Farming
 version: 1.43
 website: http://forums.bukkit.org
 authors:
